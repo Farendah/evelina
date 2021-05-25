@@ -1,0 +1,52 @@
+body {
+     background-color: aquamarine ;
+    font-family: sans-serif;
+}
+
+header { 
+    height: 120px;
+    background-color: #D7F970;
+    margin: 10px;
+ }
+
+nav{    
+    text-align: center;
+
+    ;}
+
+
+main{     
+    
+    background-color:aliceblue;
+    
+    ;}
+
+header a{
+    position: absolute;
+    top:15px;
+    color:#6C8CD5 ;
+    background-color: aquamarine ;
+    border-radius: 7px;
+    text-decoration: none;
+    padding: 10px ;
+    margin:30px ;
+}
+
+nav a{
+    color:#6C8CD5 ;
+    position: relative;
+    top:15px;
+     
+    background-color: aquamarine ;
+    border-radius: 7px;
+    text-decoration: none;
+    padding: 10px ;
+    margin:30px ;
+}
+h1 {
+    font-family:monospace;
+    text-align: center;
+    font-size: 50px;
+    color: red;
+
+}
